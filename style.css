@@ -1,0 +1,43 @@
+body{
+    font-family: 'SF Pro', monospace;
+    background-color: #e1dfd5;
+}
+
+.M{
+    color: red;
+    font-size: 32px;
+}
+.I{
+    color: orange;
+    font-size: 32px;
+}
+.G{
+    color: rgb(183, 255, 0);
+    font-size: 32px;
+}
+.H{
+    color: rgb(21, 255, 0);
+    font-size: 32px;
+}
+.T{
+    color: rgb(0, 255, 191);
+    font-size: 32px;
+}
+.Y{
+    color: rgb(0, 106, 255);
+    font-size: 32px;
+}
+
+span{
+    background-color: wheat;
+}
+
+#camera{
+    border: 2px dashed black;
+    width: 300px;
+    height: 300px;
+}
+
+.noobj{
+    color: rgb(219, 78, 78);
+}
